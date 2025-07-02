@@ -30,9 +30,9 @@ Currently, I'm working as a **Research Assistant** at the University of Dhaka, w
 
 ## 📈 GitHub Stats
 
-![Ajmain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajmainistiak&show_icons=true&theme=default)
+![Ajmain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onlyapon&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmainistiak&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyapon&layout=compact)
 
 ---
 
