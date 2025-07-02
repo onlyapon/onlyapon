@@ -1,39 +1,66 @@
-# 👋 Hi, I'm Ajmain Istiak Apon
+<!-- 🪐🚀🛰️ Futuristic GitHub Profile README 🛰️🚀🪐 -->
 
-🎓 Robotics & Mechatronics Engineering Student at Dhaka University  
-🔬 Research Assistant | 🤖 Aspiring Robotics & ML Engineer  
-🏆 Passionate about Competitive Programming and Building Smart Systems
+<div align="center">
+  <h1 style="font-family: 'Courier New', monospace; letter-spacing: 2px;">
+    👋 Hi, I'm <span style="color:#00ffe7;">Ajmain Istiak Apon</span>
+  </h1>
+  <p>
+    🎓 <strong>Robotics & Mechatronics Engineering Student</strong><br/>
+    🔬 <strong>Research Assistant</strong> & 🤖 <strong>Aspiring Robotics & ML Engineer</strong><br/>
+    🏆 Passionate about Competitive Programming & Building Smart Systems
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C++, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** PyTorch, YOLO, OpenCV  
-- **Domains:** Machine Learning, Computer Vision, Embedded Systems, Robotics
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</div>
+
+---
+
+## 🌌 Tech Stack & Domains
+
+| 🔧 **Languages**      | ⚙️ **Frameworks & Tools**      | 🌐 **Domains**                    |
+| :------------------- | :----------------------------- | :-------------------------------- |
+| Python, C++, JS, HTML/CSS | PyTorch, YOLO, OpenCV        | ML, Computer Vision, Embedded Systems, Robotics |
 
 ---
 
 ## 🚀 About Me
 
-I would love to introduce myself as a **Robotics & ML Engineer** in training, with a strong interest in problem-solving, automation, and intelligent systems. I enjoy participating in competitive programming and experimenting with real-world applications of deep learning in robotics.
-
-Currently, I'm working as a **Research Assistant** at the University of Dhaka, where I explore innovative projects in robotics and machine learning.
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [ajmain.apon123@gmail.com](mailto:ajmain.apon123@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ajmain-istiak-902672140](https://www.linkedin.com/in/ajmain-istiak-902672140/)
+> “Engineering tomorrow’s intelligent machines, one line of code at a time.”  
+>  
+> I’m training to be a **Robotics & ML Engineer**, with a penchant for  
+> automation, AI-driven robotics, and code that sparks innovation.  
+>  
+> Currently powering research at **Dhaka University**—exploring next-gen  
+> robotics applications and deep learning breakthroughs.
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect with Me
 
-![Ajmain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onlyapon&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyapon&layout=compact)
+| ✉️ Email                                    | 🔗 LinkedIn                                               |
+| :------------------------------------------ | :-------------------------------------------------------- |
+| [ajmain.apon123@gmail.com](mailto:ajmain.apon123@gmail.com) | [linkedin.com/in/ajmain-istiak-902672140](https://www.linkedin.com/in/ajmain-istiak-902672140/) |
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and connect with me on LinkedIn!*
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyapon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyapon&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Crafted with futuristic flair by Ajmain 🌠</sub>
+</div>
