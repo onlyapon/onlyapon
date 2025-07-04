@@ -56,9 +56,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyapon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyapon&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<div align="center" style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">
+
+  <!-- Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=onlyapon&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    alt="Ajmain Istiak Apon's GitHub Stats" 
+    width="350" />
+
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyapon&layout=compact&theme=radical&hide_border=true" 
+    alt="Most Used Languages" 
+    width="350" />
+
 </div>
 
 ---
