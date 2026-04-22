@@ -19,45 +19,36 @@
 
 ### 🧬 `whoami`
 
-```bash
-❯ cat ./ajmain.txt
-```
-
 ```yaml
-name:         Md. Ajmain Istiak Apon
-location:     📍 Dhaka, Bangladesh
-role:         Final-year B.Sc. — Robotics & Mechatronics Engineering
-institution:  University of Dhaka  (🎓 graduating Oct 2026)
-focus:        Generative AI · Computer Vision · Robotics
-status:       ✅ open to research / engineering opportunities
+❯ cat ./ajmain.txt
+
+  name         : Md. Ajmain Istiak Apon
+  location     : Dhaka, Bangladesh 📍
+  role         : Final-year B.Sc. — Robotics & Mechatronics Engineering
+  institution  : University of Dhaka  🎓  graduating Oct 2026
+  focus        : Generative AI  ·  Computer Vision  ·  Robotics
+  status       : ✅ open to research / engineering opportunities
 ```
 
 ---
 
 ### 🚀 What I'm Building
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Senior Thesis — <em>Generative Memorability</em></h4>
-      <sub>Steering latent diffusion via <b>graph-embedded spatial guidance</b>. Custom U-Net mods + cross-attention steering, benchmarked against Stable Diffusion.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔬 Zero-Shot World Models</h4>
-      <sub>Exploring how world-model representations transfer across imaging modalities to cut the annotation burden in clinical ML segmentation.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🪴 Stomata Detection — YOLOv11n</h4>
-      <sub><b>0.992 mAP@0.5</b> · 0.836 mAP@0.5:0.95 on a custom 300+ image Roboflow-annotated microscopy dataset.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 FastAPI + JWT Blog Backend</h4>
-      <sub>Multi-router service with SQLAlchemy, Pydantic v2, OAuth2 password flow, bcrypt via passlib.</sub>
-    </td>
-  </tr>
-</table>
+> 🧠 &nbsp; **Senior Thesis — _Generative Memorability_**  
+> Steering latent diffusion via **graph-embedded spatial guidance**. Custom U-Net mods + cross-attention steering, benchmarked against Stable Diffusion baselines under faculty supervision.  
+> `PyTorch` `Stable Diffusion` `U-Net` `Cross-Attention` `Graph Guidance`
+
+> 🔬 &nbsp; **Zero-Shot World Models for Medical Segmentation**  
+> Training a zero-shot world model that segments medical images without task-specific fine-tuning — studying how learned representations transfer across imaging modalities to cut the clinical annotation burden.  
+> `World Models` `Zero-Shot` `Segmentation` `Transfer Learning`
+
+> 🪴 &nbsp; **Stomata Detection — YOLOv11n** &nbsp; · &nbsp; _2024–2025_  
+> Trained a YOLOv11n detector on a custom 300+ image Roboflow-annotated microscopy dataset — **0.992 mAP@0.5**, 0.836 mAP@0.5:0.95, precision 0.969, recall 0.966.  
+> `YOLOv11` `OpenCV` `Roboflow` `Computer Vision`
+
+> 🔐 &nbsp; **FastAPI + JWT Blog Backend**  
+> Multi-router FastAPI service with SQLAlchemy ORM and Pydantic v2 schemas. OAuth2 password-flow login issuing JWT bearer tokens (bcrypt via passlib), dependency-injected DB sessions.  
+> `FastAPI` `SQLAlchemy` `Pydantic v2` `JWT` `OAuth2`
 
 ---
 
