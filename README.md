@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    <a href="https://ajmainapon.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-aiapon.netlify.app-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio"/></a>
+    <a href="https://ajmainapon.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-ajmainapon.github.io-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio"/></a>
     <a href="mailto:ajmain.apon123@gmail.com"><img src="https://img.shields.io/badge/📧_Email-ajmain.apon123@gmail.com-EA4335?style=for-the-badge&labelColor=0d0d0f" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/ajmain-istiak-902672140/"><img src="https://img.shields.io/badge/LinkedIn-ajmain--istiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0f" alt="LinkedIn"/></a>
     <a href="https://codeforces.com/profile/fynm"><img src="https://img.shields.io/badge/Codeforces-fynm-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0f" alt="Codeforces"/></a>
@@ -107,7 +107,7 @@
 <br/>
 
 <a href="https://ajmainapon.github.io">
-  <img src="https://img.shields.io/badge/🚀_Explore_the_full_portfolio_→-aiapon.netlify.app-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio CTA" height="40"/>
+  <img src="https://img.shields.io/badge/🚀_Explore_the_full_portfolio_→-ajmainapon.github.io-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio CTA" height="40"/>
 </a>
 
 <br/><br/>
