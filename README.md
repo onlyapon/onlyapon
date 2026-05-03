@@ -115,3 +115,17 @@
 <sub>⚡ <em>Curious about generative models, perception, and controllable AI.</em> 🌠</sub>
 
 </div>
+
+<div align="center">
+
+  <img src="https://profile-counter.glitch.me/ajmainapon/count.svg" alt="Profile Views" />
+
+  <p align="center"> 
+    <img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&labelColor=0d0d0f&color=BB86FC" alt="Views" />
+  </p>
+
+  <br/>
+
+  <sub>✨ Last updated: May 2026 | Built with 💜 and PyTorch ✨</sub>
+
+</div>
