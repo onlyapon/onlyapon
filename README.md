@@ -118,14 +118,8 @@
 
 <div align="center">
 
-  <img src="https://profile-counter.glitch.me/ajmainapon/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ajmainapon&label=PROFILE+VIEWS&style=for-the-badge&color=BB86FC&base=0d0d0f" alt="ajmainapon" />
 
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&labelColor=0d0d0f&color=BB86FC" alt="Views" />
-  </p>
-
-  <br/>
-
-  <sub>✨ Last updated: May 2026 | Built with 💜 and PyTorch ✨</sub>
+  <br/><br/>
 
 </div>
