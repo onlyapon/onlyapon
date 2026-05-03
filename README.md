@@ -114,12 +114,6 @@
 
 <sub>⚡ <em>Curious about generative models, perception, and controllable AI.</em> 🌠</sub>
 
-</div>
-
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=ajmainapon&label=PROFILE+VIEWS&style=for-the-badge&color=BB86FC&base=0d0d0f" alt="ajmainapon" />
-
-  <br/><br/>
-
+  <img src="https://komarev.com/ghpvc/?username=ajmainapon&label=PROFILE+VIEWS&style=for-the-badge&color=BB86FC" alt="Profile views" />
 </div>
