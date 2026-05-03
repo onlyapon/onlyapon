@@ -110,8 +110,6 @@
   <img src="https://img.shields.io/badge/🚀_Explore_the_full_portfolio_→-ajmainapon.github.io-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio CTA" height="40"/>
 </a>
 
-<br/><br/>
-
 <sub>⚡ <em>Curious about generative models, perception, and controllable AI.</em> 🌠</sub>
 
 <div align="center">
