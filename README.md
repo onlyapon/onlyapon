@@ -2,14 +2,14 @@
 
 <div align="center">
 
-  <a href="https://aiapon.netlify.app">
+  <a href="https://ajmainapon.github.io">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ajmain+Istiak+Apon+%F0%9F%91%8B;Robotics+%26+ML+Engineer-in-Training+%F0%9F%A4%96;Diffusion+Model+Nerd+%E2%9C%A8;FastAPI+Builder+%E2%9A%A1;500%2B+Codeforces+Problems+Solved+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://aiapon.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-aiapon.netlify.app-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio"/></a>
+    <a href="https://ajmainapon.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-aiapon.netlify.app-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio"/></a>
     <a href="mailto:ajmain.apon123@gmail.com"><img src="https://img.shields.io/badge/📧_Email-ajmain.apon123@gmail.com-EA4335?style=for-the-badge&labelColor=0d0d0f" alt="Email"/></a>
-    <a href="https://linkedin.com/in/ajmain-istiak"><img src="https://img.shields.io/badge/LinkedIn-ajmain--istiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0f" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/ajmain-istiak-902672140/"><img src="https://img.shields.io/badge/LinkedIn-ajmain--istiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0f" alt="LinkedIn"/></a>
     <a href="https://codeforces.com/profile/fynm"><img src="https://img.shields.io/badge/Codeforces-fynm-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0f" alt="Codeforces"/></a>
   </p>
 
@@ -106,7 +106,7 @@
 
 <br/>
 
-<a href="https://aiapon.netlify.app">
+<a href="https://ajmainapon.github.io">
   <img src="https://img.shields.io/badge/🚀_Explore_the_full_portfolio_→-aiapon.netlify.app-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio CTA" height="40"/>
 </a>
 
