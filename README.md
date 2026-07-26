@@ -1,117 +1,104 @@
-<!-- 🪐🚀🛰️ Ajmain Istiak · GitHub Profile 🛰️🚀🪐 -->
-
 <div align="center">
 
-  <a href="https://ajmainapon.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ajmain+Istiak+Apon+%F0%9F%91%8B;Robotics+%26+ML+Engineer-in-Training+%F0%9F%A4%96;Diffusion+Model+Nerd+%E2%9C%A8;FastAPI+Builder+%E2%9A%A1;500%2B+Codeforces+Problems+Solved+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
+# Ajmain Istiak Apon
 
-  <p>
-    <a href="https://ajmainapon.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-ajmainapon.github.io-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio"/></a>
-    <a href="mailto:ajmain.apon123@gmail.com"><img src="https://img.shields.io/badge/📧_Email-ajmain.apon123@gmail.com-EA4335?style=for-the-badge&labelColor=0d0d0f" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/ajmain-istiak-902672140/"><img src="https://img.shields.io/badge/LinkedIn-ajmain--istiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0f" alt="LinkedIn"/></a>
-    <a href="https://codeforces.com/profile/fynm"><img src="https://img.shields.io/badge/Codeforces-fynm-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0f" alt="Codeforces"/></a>
-  </p>
+### Computer Vision & Machine Learning Researcher
+
+**Medical Imaging · Self-Supervised Learning · Generative Models**
+
+Final-year Robotics & Mechatronics Engineering student at the University of Dhaka. I study label-efficient visual representation learning, medical image analysis, and reliable control of generative models.
+
+[Portfolio](https://ajmainapon.github.io) · [LinkedIn](https://www.linkedin.com/in/ajmain-istiak-902672140/) · [Email](mailto:ajmain.apon123@gmail.com) · [Codeforces](https://codeforces.com/profile/fynm)
 
 </div>
 
 ---
 
-### 🧬 `whoami`
+## Research
 
-```yaml
-❯ cat ./ajmain.txt
+### Label-Efficient Medical CT Segmentation
 
-  name         : Md. Ajmain Istiak Apon
-  location     : Dhaka, Bangladesh 📍
-  role         : Final-year B.Sc. — Robotics & Mechatronics Engineering
-  institution  : University of Dhaka  🎓  graduating Oct 2026
-  focus        : Generative AI  ·  Computer Vision  ·  Robotics
-  status       : ✅ open to research / engineering opportunities
-```
+Adapted joint-embedding predictive pretraining to 2.5D CT slice pairs and tested which natural-image design choices survive the shift to volumetric medical data.
+
+- Designed controlled leave-one-out ablations for slice separation and masking strategy
+- Evaluated data efficiency through linear probing and end-to-end fine-tuning across five label budgets
+- Corroborated the central finding with SwinUNETR, a held-out CT dataset, and CT-to-MR transfer
+- Quantified run-to-run reliability with repeated seeds and Welch's t-tests
+
+`PyTorch` `I-JEPA` `ViT` `Self-Supervised Learning` `Medical Segmentation` `SwinUNETR`
+
+### Auditing Memorability Guidance in Text-to-Image Diffusion
+
+My undergraduate thesis audits training-free predicted-memorability guidance by differentiating AMNet through the DDIM trajectory of Stable Diffusion. The emphasis is not merely whether a proxy score rises, but whether the effect transfers beyond the optimizing critic and remains competitive with simpler sampling alternatives.
+
+- Held out ResMem and ViTMem from guidance and evaluated transfer across datasets and seed bases
+- Used prompt/latent-paired comparisons, prompt-clustered inference, and an outcome-untouched test set
+- Compared guidance with prompt modification and best-of-four reranking
+- Characterized Goodhart-style failure modes through directional controls and a native-resolution SDXL diagnostic
+
+`PyTorch` `Stable Diffusion` `DDIM` `Universal Guidance` `Statistical Evaluation`
+
+### AI-Assisted Stomatal Phenotyping
+
+A cross-disciplinary chickpea study benchmarked instance-segmentation systems for guard-cell complexes and stomatal pores under control and drought conditions.
+
+- Benchmark scale: **506 microscopy images** and **6,605 annotated instances**
+- Evaluation design: 359 training, 99 validation, and 48 locked test images
+- Model comparison: YOLOv8s-seg, YOLO26s-seg, and Mask R-CNN under a common test protocol
+- Main limitation: small-pore segmentation, followed by the need for repeated runs and external validation
+
+| Best observed test result | Model | Mask AP |
+| :-- | :-- | --: |
+| IoU 0.50 | YOLO26s-seg | 0.638 |
+| IoU 0.50:0.95 | Mask R-CNN | 0.428 |
+
+`PyTorch` `Ultralytics` `Mask R-CNN` `Instance Segmentation` `Roboflow`
 
 ---
 
-### 🚀 What I'm Building
+## Selected Projects
 
-> 🧠 &nbsp; **Senior Thesis — _Generative Memorability_**  
-> Steering latent diffusion via **graph-embedded spatial guidance**. Custom U-Net mods + cross-attention steering, benchmarked against Stable Diffusion baselines under faculty supervision.  
-> `PyTorch` `Stable Diffusion` `U-Net` `Cross-Attention` `Graph Guidance`
+### FastAPI Blog API
 
-> 🔬 &nbsp; **Zero-Shot World Models for Medical Segmentation**  
-> Training a zero-shot world model that segments medical images without task-specific fine-tuning — studying how learned representations transfer across imaging modalities to cut the clinical annotation burden.  
-> `World Models` `Zero-Shot` `Segmentation` `Transfer Learning`
+Developed a multi-router REST API with JWT authentication, OAuth2 password flow, SQLAlchemy persistence, Pydantic v2 validation, and dependency-injected database sessions.
 
-> 🪴 &nbsp; **Stomata Detection — YOLOv11n** &nbsp; · &nbsp; _2024–2025_  
-> Trained a YOLOv11n detector on a custom 300+ image Roboflow-annotated microscopy dataset — **0.992 mAP@0.5**, 0.836 mAP@0.5:0.95, precision 0.969, recall 0.966.  
-> `YOLOv11` `OpenCV` `Roboflow` `Computer Vision`
+`FastAPI` `SQLAlchemy` `Pydantic` `PostgreSQL` `JWT` `OAuth2`
 
-> 🔐 &nbsp; **FastAPI + JWT Blog Backend**  
-> Multi-router FastAPI service with SQLAlchemy ORM and Pydantic v2 schemas. OAuth2 password-flow login issuing JWT bearer tokens (bcrypt via passlib), dependency-injected DB sessions.  
-> `FastAPI` `SQLAlchemy` `Pydantic v2` `JWT` `OAuth2`
+### Robotics & Embedded Systems
+
+Worked with ROS 2, STM32 motor control, URDF/Xacro modeling, mobile-robot kinematics, and an instrumented DJI F450 drone platform involving CAD, data acquisition, signal conditioning, and uncertainty analysis.
+
+`ROS 2` `STM32` `C/C++` `Python` `CAD`
 
 ---
 
-### 🛠️ Arsenal
+## Technical Toolkit
+
+| Area | Technologies |
+| :-- | :-- |
+| Machine learning | PyTorch, torchvision, timm, Ultralytics, scikit-learn, OpenCV |
+| Research methods | Self-supervised learning, medical segmentation, instance segmentation, diffusion guidance |
+| Backend & data | FastAPI, SQLAlchemy, Pydantic, PostgreSQL |
+| Robotics | ROS 2, STM32, URDF/Xacro |
+| Languages & tools | Python, C++, C, SQL, JavaScript, LaTeX, Git, Linux |
+
+---
+
+## Highlights
+
+- **3rd place**, 48-hour Datathon, as a member of Team Neural Nexus
+- **500+ algorithmic problems solved** across Codeforces and VJudge
+- **President**, RMEDU Student Club — April 2026 to present
+- **Program Coordinator**, IEEE Robotics & Automation Society, University of Dhaka — March 2024 to present
+
+---
+
+## Current Direction
+
+I am preparing for graduate research in computer vision, with particular interest in self-supervised representation learning, label-efficient medical imaging, and controllable generative models. I am open to research collaborations and research-oriented opportunities aligned with these areas.
 
 <div align="center">
 
-**Languages**
+[View my portfolio](https://ajmainapon.github.io) · [Connect on LinkedIn](https://www.linkedin.com/in/ajmain-istiak-902672140/) · [Email me](mailto:ajmain.apon123@gmail.com)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-**AI / ML · Generative**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv11-111?style=for-the-badge&logo=ultralytics&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000?style=for-the-badge&logo=stabilityai&logoColor=white)
-
-**Backend · Robotics · Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-### 🏛️ Leadership
-
-| 🎯 Role | 🏢 Organization | 📅 Tenure |
-| :-- | :-- | :-- |
-| **President** | RMEDU Student Club | *Apr 2026 – Present* |
-| **Program Coordinator** | IEEE Robotics & Automation Society, University of Dhaka | *Mar 2024 – Present* |
-
----
-
-<div align="center">
-
-### 💫 *"Engineering tomorrow's intelligent machines — one graph-guided denoising step at a time."*
-
-<br/>
-
-<a href="https://ajmainapon.github.io">
-  <img src="https://img.shields.io/badge/🚀_Explore_the_full_portfolio_→-ajmainapon.github.io-BB86FC?style=for-the-badge&labelColor=0d0d0f" alt="Portfolio CTA" height="40"/>
-</a>
-
-<sub>⚡ <em>Curious about generative models, perception, and controllable AI.</em> 🌠</sub>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajmainapon&label=PROFILE+VIEWS&style=for-the-badge&color=BB86FC" alt="Profile views" />
 </div>
