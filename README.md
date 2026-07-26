@@ -86,10 +86,9 @@ Worked with ROS 2, STM32 motor control, URDF/Xacro modeling, mobile-robot kinema
 
 ## Highlights
 
-- **3rd place**, 48-hour Datathon, as a member of Team Neural Nexus
 - **500+ algorithmic problems solved** across Codeforces and VJudge
 - **President**, RMEDU Student Club — April 2026 to present
-- **Program Coordinator**, IEEE Robotics & Automation Society, University of Dhaka — March 2024 to present
+- **Program Coordinator**, IEEE Robotics & Automation Society, University of Dhaka — March 2024 to 2025
 
 ---
 
